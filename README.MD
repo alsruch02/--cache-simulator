@@ -1,5 +1,5 @@
 # https://github.com/sonsidal/cache_simulator/blob/master/cache.c
-# 해당 소스코드를 기반으로 작성했습니다.
+# 해당 소스코드를 기반으로 갖고있는 .trace 파일에 맞게 수정했습니다.
 # Store과 Load기능만 존재합니다.
 # s 0x00000000 0\n
 # l 0xffffffff 1\n
